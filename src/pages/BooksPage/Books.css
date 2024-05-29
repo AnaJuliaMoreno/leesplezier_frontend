@@ -1,0 +1,24 @@
+
+#book-list {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    text-decoration: none;
+}
+
+.bookImage {
+    width: auto;
+    height: 50em;
+    background-image: url('../../assets/images/imaginationBook.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+

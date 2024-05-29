@@ -1,0 +1,76 @@
+.session-tiles-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Specific for errors*/
+.session-tiles-container span{
+    font-size: 10px;
+    color: red;
+}
+
+.post-form-tiles {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 1;
+    flex-grow: 2;
+    flex-basis: 250px;
+    margin: 20px;
+    padding: 16px;
+    background-color: #eef3eb;
+    border-radius: 12px;
+}
+/*This is the text area in the form*/
+.personal-message {
+    width: 90%;
+    height: 8em;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 12px;
+}
+
+.result-tile{
+    background-color: #e3e9f3;
+}
+
+/*Result message*/
+.post-it{
+    padding: 12px;
+    margin: 12px;
+    background: rgb(255, 248, 190);
+    border: solid 4px rgb(234, 213, 105);
+    max-width: 300px;
+    align-self: center;
+    line-height: 1;
+}
+.post-it i {
+    font-weight: bolder;
+}
+.post-it p{
+    margin: 0;
+}
+
+.post-form-tiles p {
+    font-size: 12px;
+    line-height: 1.5;
+}
+
+
+.post-form-tiles h3 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    color: #1b4c3f;
+    line-height: 1.5;
+    margin-bottom: 12px;
+
+}
+#placed-post{
+    margin: 12px;
+}

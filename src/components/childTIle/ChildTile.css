@@ -1,0 +1,44 @@
+.child-tiles div{
+    height: auto;
+
+}
+.child-tiles{
+    width: 200px;
+    height: auto;
+    margin: 16px;
+    padding: 8px;
+    border-radius: 10px;
+
+}
+
+.tile-border-orange{
+    box-shadow: 5px 5px #e34e20;
+    border: 2px solid #e34e20;
+}
+.tile-border-green{
+    box-shadow: 5px 5px #46ae13;
+    border: 2px solid #46ae13;
+}
+.tile-border-purple{
+    box-shadow: 5px 5px #7013ae;
+    border: 2px solid #7013ae;
+}
+.tile-border-yellow{
+    box-shadow: 5px 5px #ceb62e;
+    border: 2px solid #ceb62e;
+}
+
+.child-tiles ul {
+    margin: 8px;
+    font-weight: bold;
+    color: #1a1a1a;
+    letter-spacing: normal;
+}
+.child-tiles li{
+    font-weight: normal;
+}
+
+#child_tile_title{
+    text-align: center;
+    font-size: large;
+}

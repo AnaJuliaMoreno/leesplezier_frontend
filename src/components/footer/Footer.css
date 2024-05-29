@@ -1,0 +1,14 @@
+.footerLeesP {
+    background-color: #283858;
+    border-top: 3px solid green;
+    position: static;
+    padding: 4px;
+    width: 100%;
+    color: white;
+    font-size: 25px;
+}
+
+.footerLeesP p {
+    line-height: 1;
+
+}

@@ -1,0 +1,22 @@
+.book-border {
+    width: 150px;
+    height: auto;
+    margin: 12px;
+    padding: 8px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    line-height: 1;
+    font-size: 90%;
+    color: #000000;
+    box-shadow: 4px 4px 4px #5d466d;
+    border: solid #831eb5;
+    background-color: white;
+}
+.book-tiles{
+    text-decoration: none;
+    line-height: 1.5;
+text-align: center;
+}
+

@@ -1,0 +1,356 @@
+{
+  "children": [
+    {
+      "id": 1,
+      "name": "Bob",
+      "age": 6,
+      "selectedReadingFocus": [
+        "Woordenschat",
+        "Decode"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Tuesday",
+          "start_at": "13:30"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_at": "15:00"
+        }
+      ],
+      "selectedLocations": [
+        "De Meern"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Charlie",
+      "age": 7,
+      "selectedReadingFocus": [
+        "Begrijpend lezen",
+        "Geheugen en aandacht"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Monday",
+          "start_at": "14:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_at": "16:15"
+        }
+      ],
+      "selectedLocations": [
+        "Hoograven", "Overvecht"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "David",
+      "age": 8,
+      "selectedReadingFocus": [
+        "Fonetisch bewustzijn",
+        "Begrijpend lezen"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Monday",
+          "start_at": "13:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_at": "15:45"
+        }
+      ],
+      "selectedLocations": [
+        "Kanaleneiland", "Overvecht"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Emma",
+      "age": 9,
+      "selectedReadingFocus": [
+        "Vlotheid",
+        "Woordenschat"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Tuesday",
+          "start_at": "12:45"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_at": "14:30"
+        }
+      ],
+      "selectedLocations": [
+        "Leidsche Rijn Centrum", "De Meern"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Frank",
+      "age": 10,
+      "selectedReadingFocus": [
+        "Geheugen en aandacht",
+        "Fonetisch bewustzijn"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Monday",
+          "start_at": "14:30"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_at": "16:00"
+        }
+      ],
+      "selectedLocations": [
+        "Lunetten"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Grace",
+      "age": 11,
+      "selectedReadingFocus": [
+        "Begrijpend lezen",
+        "Woordenschat"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Tuesday",
+          "start_at": "13:15"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_at": "15:30"
+        }
+      ],
+      "selectedLocations": [
+        "Oog in Al"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Henry",
+      "age": 12,
+      "selectedReadingFocus": [
+        "Decode",
+        "Vlotheid"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Monday",
+          "start_at": "14:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_at": "16:15"
+        }
+      ],
+      "selectedLocations": [
+        "Overvecht", "Hoograven"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Isabella",
+      "age": 13,
+      "selectedReadingFocus": [
+        "Fonetisch bewustzijn",
+        "Geheugen en aandacht"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Tuesday",
+          "start_at": "13:30"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_at": "15:00"
+        }
+      ],
+      "selectedLocations": [
+        "Tuinwijk"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Jack",
+      "age": 14,
+      "selectedReadingFocus": [
+        "Vlotheid",
+        "Woordenschat"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Monday",
+          "start_at": "14:45"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_at": "16:15"
+        }
+      ],
+      "selectedLocations": [
+        "Vleuten"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Alice",
+      "age": 15,
+      "selectedReadingFocus": [
+        "Decode",
+        "Begrijpend lezen"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Tuesday",
+          "start_at": "12:30"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_at": "14:00"
+        }
+      ],
+      "selectedLocations": [
+        "Vleuterweide", "Vleuten"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Alice",
+      "age": 16,
+      "selectedReadingFocus": [
+        "Geheugen en aandacht",
+        "Begrijpend lezen"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Monday",
+          "start_at": "12:30"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_at": "14:00"
+        }
+      ],
+      "selectedLocations": [
+        "Waterwin", "Hoograven"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Alice",
+      "age": 17,
+      "selectedReadingFocus": [
+        "Fonetisch bewustzijn",
+        "Woordenschat"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Tuesday",
+          "start_at": "13:30"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_at": "15:00"
+        }
+      ],
+      "selectedLocations": [
+        "Zuilen", "Waterwin"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Alice",
+      "age": 18,
+      "selectedReadingFocus": [
+        "Vlotheid",
+        "Geheugen en aandacht"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Monday",
+          "start_at": "14:45"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_at": "16:15"
+        }
+      ],
+      "selectedLocations": [
+        "Neude"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Alice",
+      "age": 19,
+      "selectedReadingFocus": [
+        "Decode",
+        "Fonetisch bewustzijn"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Tuesday",
+          "start_at": "12:30"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_at": "14:00"
+        }
+      ],
+      "selectedLocations": [
+        "Waterwin" , "De Meern"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Alice",
+      "age": 20,
+      "selectedReadingFocus": [
+        "Begrijpend lezen",
+        "Vlotheid"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Monday",
+          "start_at": "14:00"
+        },
+        {
+          "day_of_week": "Wednesday",
+          "start_at": "16:15"
+        }
+      ],
+      "selectedLocations": [
+        "Hoograven"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Alice",
+      "age": 21,
+      "selectedReadingFocus": [
+        "Woordenschat",
+        "Decode"
+      ],
+      "availabilityList": [
+        {
+          "day_of_week": "Tuesday",
+          "start_at": "12:45"
+        },
+        {
+          "day_of_week": "Thursday",
+          "start_at": "14:30"
+        }
+      ],
+      "selectedLocations": [
+        "Kanaleneiland"
+      ]
+    }
+  ]
+}

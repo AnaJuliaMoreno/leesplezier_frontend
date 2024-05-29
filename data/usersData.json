@@ -1,0 +1,176 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "JohnDoe",
+      "password": "P@ssw0rd123",
+      "registerDate": "2024-01-10",
+      "userRole": "volunteer",
+      "email": "john.doe@example.com",
+      "lastName": "Doe"
+    },
+    {
+      "id":2,
+      "userName": "AliceSmith",
+      "password": "Alic3_Sm1th",
+      "registerDate": "2024-02-15",
+      "userRole": "parent",
+      "email": "alice.smith@example.com",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "userName": "MichaelJohnson",
+      "password": "M1k3_J0hns0n",
+      "registerDate": "2023-11-20",
+      "userRole": "parent",
+      "email": "michael.johnson@example.com",
+      "lastName": "Johnson"
+    },
+    {
+      "id": 4,
+      "userName": "EmilyBrown",
+      "password": "Br0wnEm1ly",
+      "registerDate": "2024-03-05",
+      "userRole": "volunteer",
+      "email": "emily.brown@example.com",
+      "lastName": "Brown"
+    },
+    {
+      "id": 5,
+      "userName": "DanielRodriguez",
+      "password": "D@n13l_R0dr1gu3z",
+      "registerDate": "2023-09-18",
+      "userRole": "volunteer",
+      "email": "daniel.rodriguez@example.com",
+      "lastName": "Rodriguez"
+    },
+    {
+      "id": 6,
+      "userName": "SophiaChen",
+      "password": "S0ph1aCh3n",
+      "registerDate": "2024-04-20",
+      "userRole": "parent",
+      "email": "sophia.chen@example.com",
+      "lastName": "Chen"
+    },
+    {
+      "id": 7,
+      "userName": "DavidLee",
+      "password": "D@v1d_L33",
+      "registerDate": "2023-12-10",
+      "userRole": "parent",
+      "email": "david.lee@example.com",
+      "lastName": "Lee"
+    },
+    {
+      "id": 8,
+      "userName": "EmmaGarcia",
+      "password": "3mma_G@rc1a",
+      "registerDate": "2024-05-01",
+      "userRole": "volunteer",
+      "email": "emma.garcia@example.com",
+      "lastName": "Garcia"
+    },
+    {
+      "id": 9,
+      "userName": "LiamNguyen",
+      "password": "L14m_Ngu13n",
+      "registerDate": "2023-10-15",
+      "userRole": "parent",
+      "email": "liam.nguyen@example.com",
+      "lastName": "Nguyen"
+    },
+    {
+      "id": 10,
+      "userName": "OliviaKim",
+      "password": "Ol1v1a_K1m",
+      "registerDate": "2024-02-28",
+      "userRole": "volunteer",
+      "email": "olivia.kim@example.com",
+      "lastName": "Kim"
+    },
+    {
+      "id": 11,
+      "userName": "EthanMartinez",
+      "password": "3th@n_M@rt1n3z",
+      "registerDate": "2023-08-05",
+      "userRole": "parent",
+      "email": "ethan.martinez@example.com",
+      "lastName": "Martinez"
+    },
+    {
+      "id": 12,
+      "userName": "AvaLopez",
+      "password": "Av@_L0p3z",
+      "registerDate": "2024-03-12",
+      "userRole": "parent",
+      "email": "ava.lopez@example.com",
+      "lastName": "Lopez"
+    },
+    {
+      "id": 13,
+      "userName": "NoahWang",
+      "password": "N04h_W@ng",
+      "registerDate": "2023-11-30",
+      "userRole": "volunteer",
+      "email": "noah.wang@example.com",
+      "lastName": "Wang"
+    },
+    {
+      "id": 14,
+      "userName": "IsabellaGonzalez",
+      "password": "1s@b3ll@_G0nz@lez",
+      "registerDate": "2024-04-08",
+      "userRole": "volunteer",
+      "email": "isabella.gonzalez@example.com",
+      "lastName": "Gonzalez"
+    },
+    {
+      "id": 15,
+      "userName": "MasonHernandez",
+      "password": "M@s0n_H3rn@nd3z",
+      "registerDate": "2023-12-22",
+      "userRole": "parent",
+      "email": "mason.hernandez@example.com",
+      "lastName": "Hernandez"
+    },
+    {
+      "id": 16,
+      "firstName": "",
+      "lastName": "Valderrama",
+      "email": "s.valde@hotmail.com",
+      "role": "volunteer",
+      "password": "popor092!",
+      "userName": "Sandra"
+    },
+    {
+      "id": 17,
+      "firstName": "",
+      "lastName": "Valderrama",
+      "email": "s.valde@hotmail.com",
+      "role": "volunteer",
+      "password": "popor092!",
+      "userName": "Sandra"
+    },
+    {
+      "id": 18,
+      "firstName": "",
+      "lastName": "Valderrama",
+      "email": "s.valde@hotmail.com",
+      "role": "volunteer",
+      "password": "popor092!",
+      "userName": "Sandra"
+    },
+    {
+      "id": 19,
+      "firstName": "",
+      "lastName": "Valderrama",
+      "email": "s.valde@hotmail.com",
+      "role": "volunteer",
+      "password": "popor092!",
+      "userName": "Sandra"
+    }
+
+  ]
+}

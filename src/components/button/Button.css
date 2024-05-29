@@ -1,0 +1,25 @@
+button {
+    border: none;
+    border-radius: 20px;
+    color: #070c1c;
+    text-transform: lowercase;
+    box-shadow: 0 5px 8px 4px rgb(99, 149, 92);
+}
+
+
+button:disabled {
+    cursor: not-allowed;
+    border-color: #dc4d2a;
+    color: #D08169;
+}
+
+button + button {
+    margin-left: 12px;
+}
+
+.search-button{
+    box-shadow: 4px 4px 4px #586d46;
+    border:solid #72b51e;
+    padding: 4px;
+}
+

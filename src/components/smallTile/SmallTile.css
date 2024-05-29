@@ -1,0 +1,29 @@
+.sTile-border {
+    width: 300px;
+    min-height: auto;
+    margin: 12px;
+    border-radius: 10px;
+    line-height: 1;
+    color: #000000;
+    box-shadow: 4px 4px 4px #5d466d;
+    border: solid #831eb5;
+    background-color: white;
+    opacity: 0.75;
+}
+
+.sTiles{
+    text-decoration: none;
+    line-height: 1.5;
+}
+.sTiles p{
+    font-weight: bold;
+    color: #17215a;
+    margin: 4px;
+    text-align: center;
+}
+
+.sTiles h3{
+    color: #17215a;
+    text-align: center;
+    line-height: 2;
+}

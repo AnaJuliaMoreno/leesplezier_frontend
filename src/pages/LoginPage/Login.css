@@ -1,0 +1,18 @@
+.log-in-form {
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: start;
+    margin: 0 auto;
+    padding: 2em;
+    background-color: #c6e5e0;
+    border-radius: 20px;
+}
+
+.title-login {
+    text-align: center;
+    line-height: 2;
+}
+

@@ -1,0 +1,31 @@
+.outer-content-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.inner-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 16px 0 16px 0;
+}
+.error {
+    color: red;
+    font-size: 12px;
+}
+
+.success-message {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+.success-message button {
+    margin: 12px;
+    text-transform: none;
+}
+

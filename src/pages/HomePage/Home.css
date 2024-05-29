@@ -1,0 +1,23 @@
+.home-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+
+}
+.home-link{
+    text-decoration: none;
+    background-color: white;
+    padding: 8px;
+    border-radius: 12px;
+    font-size: 1em;
+    font-weight: bolder;
+    color: #184a3e;
+    border: #888888 solid 2px;
+    max-width: fit-content;
+}
+.home-link:hover{
+    background-color: #e6f6f2;
+    color: #184a3e;
+}

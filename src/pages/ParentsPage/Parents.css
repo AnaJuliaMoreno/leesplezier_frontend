@@ -1,0 +1,16 @@
+.parents-background {
+    width: 100%;
+    height: auto;
+    background-image: url('../../assets/images/field.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.parents-intro-text{
+    background-color: rgba(243, 242, 232, 0.8);
+    padding: 12px;
+    border-radius: 12px;
+}
+#parents-todo{
+    color: black;
+}

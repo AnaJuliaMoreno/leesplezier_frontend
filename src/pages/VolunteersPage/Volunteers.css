@@ -1,0 +1,26 @@
+.tiles-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.volunteers-background {
+    width: auto;
+    height: fit-content;
+    background-image: url('../../assets/images/treasure-chest.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.page-intro-text{
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    background-color: #f1efef;
+    border-radius: 12px;
+    padding: 20px;
+}
+.page-intro-text p{
+    margin: 0;
+}

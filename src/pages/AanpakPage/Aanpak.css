@@ -1,0 +1,19 @@
+
+.tips-article{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding: 20px;
+    }
+.aanpak{
+    justify-content: center;
+}
+.list_links{
+     margin: 20px;
+}
+.tips-article h3{
+     margin: 12px;
+}
+.tips-article h4{
+     margin: 12px;
+}

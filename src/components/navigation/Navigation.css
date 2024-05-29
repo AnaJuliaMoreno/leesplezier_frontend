@@ -1,0 +1,66 @@
+nav .inner-container {
+    margin: 0;
+}
+
+#logo {
+    max-height: 80px;
+    width: auto;
+    box-shadow: 0 0 5px 5px lightgray;
+
+}
+.login-link{
+    text-decoration: none;
+    text-transform: capitalize;
+    background-color: #e5f1e4;
+    padding: 8px;
+    border-radius: 12px;
+    font-size: 1em;
+    font-weight: bolder;
+    color: #184a3e;
+    border: #888888 solid 2px;
+    min-width: fit-content;
+    margin: 0 12px 0 12px;
+}
+.login-link:hover{
+    background-color: #184a3e;
+    color: #e5f1e4;
+}
+.active-login {
+    background-color: #0b4c66;
+    color: #ffffff;
+    border-radius: 12px;
+}
+
+
+
+
+
+#menu-main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #bce9fa;
+    padding: 12px 0 12px 0;
+    align-content: center;
+    justify-content: space-around;
+}
+
+
+
+#register-login {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    min-width: fit-content;
+}
+
+.slogan_site {
+    overflow: hidden;
+    line-height: 1.5;
+    max-height: fit-content;
+    width: fit-content;
+}
+
+
+
+
